@@ -1,0 +1,45 @@
+.display{
+	display: flex;
+}
+body{
+	font-family: arial;
+	background-color: #afb1b5;
+}
+h1{
+	font-size: 45px;
+	font-weight: 700;
+	padding-left: 100px;
+}
+.marg{
+	margin-left: 100px;
+}
+.pic{
+	width: 300px;
+}
+h2{
+	font-size: 23px;
+	font-weight: 400
+}
+.back{
+	background-color: white;
+}
+p{
+	color: gray
+}
+.top{
+	margin-top: 20px;
+}
+.div1{
+	width: 300px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.ot{
+	margin-left: 50px;
+}
+.div2{
+	width: 290px;
+	margin-top: 40px;
+	padding-left: 30px;
+}
+
